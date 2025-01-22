@@ -1,4 +1,4 @@
--- Google Capstone Project - 2 
+
 --How Can a Wellness Technology Company Play It Smart?
 
 -- For the Data cleaning, preprocessing and mining I used PostgresSQL.
